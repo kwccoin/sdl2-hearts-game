@@ -2,7 +2,7 @@
 
 A [SDL 2.0](https://www.libsdl.org/) based game of Hearts I created during college.
 
-Note: This project was originally created using Eclipse CDT for Linux, and a [tutorial by Will Usher](https://www.willusher.io/pages/sdl2/)
+Note: This project was originally created using Eclipse CDT for Linux, and started by following a [simple SDL tutorial by Will Usher](https://www.willusher.io/pages/sdl2/)
 
 Special credit to [kenney.nl](https://www.kenney.nl/) for the card images: [https://www.kenney.nl/assets/boardgame-pack](https://www.kenney.nl/assets/boardgame-pack)
 
@@ -23,7 +23,7 @@ Most Linux systems should support command-line installation. Simply follow the i
     > ./sdl2-hearts-game.out
     ```
 
-### Windows with Cygwin
+### Windows with [Cygwin](https://www.cygwin.com/)
 
 #### Building
 
